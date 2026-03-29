@@ -1,7 +1,5 @@
 # FinClust: Financial Behavior Clustering App
 
-# FinClust
-
 An unsupervised machine learning application for financial behavior segmentation. Users upload or generate financial data, and the system clusters it into behavioral segments with interactive visualizations.
 
 ## Architecture
